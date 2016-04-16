@@ -20,7 +20,7 @@ public class Kontroler {
     private Widok widok;
     private MyPopupMenu menu;
     private String OGrze = "Tutaj beda informacje o grze";
-    private String OAplikacji = "Autor:   Michal Przystupa\nWersja:   1.0\nData powstania:   25 11 2013";
+    private String OAplikacji = "Autor:   M\nWersja:   1.0\nData powstania:   25 11 2013";
     private Point lastRightClick, pozWTablicy;
     private Color staryKolor, nowyKolor;
     /**
